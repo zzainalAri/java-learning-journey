@@ -3,7 +3,7 @@
 This repository documents my journey in learning Java, from basic concepts to advanced topics and case studies.
 
 ## Table of Contents
-1. [Java Basics](01-java-basic)
+1. [Java Basics](01.java-basic)
 2. [Basic Java Case Study: TodoList Application](02-basic-case-study-todolist)
 3. [Java OOP](03-java-oop)
 4. [Java Standard Classes](04-java-standard-classes)
