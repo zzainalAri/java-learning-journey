@@ -19,3 +19,9 @@ This repository documents my journey in learning Java, from basic concepts to ad
 14. [Java Internationalization](14-java-internationalization)
 15. [Java Date & Time](15-java-date-time)
 
+## Contact
+If you have any questions or suggestions, feel free to reach out:
+- Email: zainalfadliansyah@gmail.com
+- LinkedIn: www.linkedin.com/in/zainal-arifin-fadliansyah
+
+Happy coding! 🚀
