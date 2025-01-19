@@ -18,8 +18,10 @@ public class Variable {
         var firstName = "Zainal";
         var middleName = "Arifin";
         var lastName = "Fadliansyah";
+        System.out.println(firstName + " " + middleName + " " + lastName);
 
         final String application = "Belajar Java";
+        System.out.println(application);
 
     }
 }
